@@ -4,7 +4,12 @@
     "repositoryName": "pragmaticalware",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "pragmaticalware",
+    "description": "Top of the heap and beyond"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
