@@ -1,9 +1,6 @@
-= Pragmatical what?
-
-
-
-== ONE post
+= ONE post
 jamarortiz
+
 One pasion: Build better software
 One mission: Learn and share
 One vission: Make it happen
