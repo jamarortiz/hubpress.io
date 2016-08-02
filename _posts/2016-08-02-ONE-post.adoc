@@ -2,6 +2,6 @@
 jamarortiz
 
 * One pasion: Build better software
-* One mission: Learn and share
-* One vission: Make it happen
+* One mission: Make it happen
+* One vission: Learn and share 
 
