@@ -2,7 +2,7 @@
 :hp-tags: One tag
 jamarortiz
 
-* One pasion: Build better software
-* One mission: Make it happen
+* One pasion: Make it better
+* One mission: To help
 * One vission: Learn and share 
 
